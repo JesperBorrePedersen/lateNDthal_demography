@@ -1,8 +1,10 @@
 # 💀 lateNDthal_demography
 
-> *Data and Code for: “Archaeogenetic insights into the demographic history of Late Neanderthals”*  
-> **Authors**: Charoula M. Fotiadou1,2, Jesper Borre Pedersen3, Hélène Rougier4, Mirjana Roksandic5, Maria A. Spyrou1,2, Kathrin Nägele6 , Ella Reiter1, Hervé Bocherens2,7, Andrew W. Kandel3, Miriam N. Haidle3,8, Timo P. Streicher3, Nicholas J. Conard2,8, Flora Schilt9,10, Ricardo Miguel Godinho10, Thorsten Uthmeier11, Luc Doyon12, Patrick Semal13, Johannes Krause1,6, Alvise Barbieri10, Dušan Mihailović14, Isabelle Crevecoeur12, Cosimo Posth1,2* 
-> **Affiliation**: 
+Data and Code for: “Archaeogenetic insights into the demographic history of Late Neanderthals”  
+
+### Authors: Charoula M. Fotiadou1,2, Jesper Borre Pedersen3, Hélène Rougier4, Mirjana Roksandic5, Maria A. Spyrou1,2, Kathrin Nägele6 , Ella Reiter1, Hervé Bocherens2,7, Andrew W. Kandel3, Miriam N. Haidle3,8, Timo P. Streicher3, Nicholas J. Conard2,8, Flora Schilt9,10, Ricardo Miguel Godinho10, Thorsten Uthmeier11, Luc Doyon12, Patrick Semal13, Johannes Krause1,6, Alvise Barbieri10, Dušan Mihailović14, Isabelle Crevecoeur12, Cosimo Posth1,2* 
+
+### Affiliation: 
 1 Archaeo- and Paleogenetics, Institute for Archaeological Sciences, Department of Geosciences, University of Tübingen, Tübingen 72074, Germany;
 2 Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen, Tübingen 72074, Germany;
 3 The Role of Culture in Early Expansions of Humans (ROCEEH), Heidelberg Academy of Sciences and Humanities, University of Tübingen, Hölderlinstrasse 12, Tübingen 72074, Germany;
@@ -13,8 +15,12 @@
 8 Scientific Heritage Service, Royal Belgian Institute of Natural Sciences, 1000 Brussels, Belgium;
 9 Department of Archaeology, Faculty of Philosophy, University of Belgrade, 11000 Belgrade, Serbia;
 10 De la Préhistoire à l’Actuel: Culture, Environnement et Anthropologie, UMR 5199, CNRS, University of Bordeaux, Pessac 33600, France; 
-> **Date**: YYYY-MM-DD  
-> **DOI/Link to Publication**: *[Add DOI or URL here]*
+
+### Date: YYYY-MM-DD
+
+### Publication DOI: *[Add DOI or URL here]*
+
+### Compendium DOI: 
 
 ---
 
@@ -58,7 +64,7 @@ This repository contains the datasets, R scripts, and documentation for the anal
 ```
 
 
-> 🔒 The `1_data/yaworsky_extended/raw_data/Climate/` folder is not tracked by Git due to its large size. See the "Data Description" section below for access details.
+> 🔒 The `1_data/yaworsky_extended/raw_data/Climate/` folder is not tracked by Git due to its large size. This folder is created when running the code.
 
 ---
 
@@ -104,5 +110,5 @@ For questions or data requests, please contact:
 
 **Jesper Borre Pedersen**  
 Email: <jesper-borre.pedersen@ifu.uni-tuebingen.de>  
-GitHub: https://github.com/JesperBorrePedersen
+GitHub: https://github.com/JesperBorrePedersen  
 ORCID: [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--3468--0986-green.svg)](https://orcid.org/0000-0002-3468-0986)
