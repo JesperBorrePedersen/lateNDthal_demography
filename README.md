@@ -38,13 +38,11 @@ This repository contains the datasets, R scripts, and documentation for the anal
 
 **“Archaeogenetic insights into the demographic history of Late Neanderthals”**
 
-###Abstract (from paper):
-###The demographic history of Neanderthals is only partially understood. In Europe, some level of genetic continuity has been shown from 120 thousand years ago (ka) onward, despite the presence of multiple subsequent diversification events. While it has been proposed that a population turnover preceded European Late Neanderthals (57-43 ka), the timing and geographic location of this event are currently unknown. Here, we report ten new mitochondrial genomes (mtDNA) of Neanderthal individuals from six archaeological sites in Belgium, France, Germany and Serbia and analyze them alongside 49 published mtDNAs. The integration of phylogenetic and molecular dating analyses with a comprehensive archaeological dataset enabled the reconstruction of temporal and spatial patterns in Neanderthal distribution. Remarkably, nearly all Late Neanderthal individuals across Europe belong to a single, recently diversified mtDNA lineage, suggesting a strong population bottleneck followed by rapid demographic expansion. Our analyses date this diversification event to approximately ~65 ka and propose it likely originated from a population refugium in southwestern France from where Neanderthals appear to have undergone a major range expansion across Europe. In addition, we detect a sharp decline in the mitochondrial Neanderthal effective population size beginning ~45 ka and reaching a minimum ~42 ka, shortly before their extinction. This study demonstrates how the integration of molecular and archaeological datasets provides a more detailed understanding of Late Neanderthal population history, and highlights the critical role of climate-driven refugia and subsequent range expansions in shaping the genetic landscape of Neanderthals through time. 
 ---
 
 ## 📁 Repository Structure
 
-.
+```
 ├── 1_data
 │   ├── road_analysis
 │   ├── yaworsky_et_al_2024
@@ -57,7 +55,7 @@ This repository contains the datasets, R scripts, and documentation for the anal
 │   └── yaworsky_extended
 ├── lateNDthal_demography.Rproj
 └── README.md
-
+```
 
 
 > 🔒 The `1_data/yaworsky_extended/raw_data/Climate/` folder is not tracked by Git due to its large size. See the "Data Description" section below for access details.
@@ -106,5 +104,5 @@ For questions or data requests, please contact:
 
 **Jesper Borre Pedersen**  
 Email: <jesper-borre.pedersen@ifu.uni-tuebingen.de>  
-ORCID: [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--3468--0986-green.svg)](https://orcid.org/0000-0002-3468-0986)  
 GitHub: https://github.com/JesperBorrePedersen
+ORCID: [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--3468--0986-green.svg)](https://orcid.org/0000-0002-3468-0986)
