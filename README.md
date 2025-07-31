@@ -20,14 +20,15 @@
 
 ## 📖 Content
 
-1. [🧭 Overview](#🧭 Overview)
-2. [Repository Structure](#Repository Structure)
-3. [Data Description](#Data Description)
-4. [Getting Started](#Getting-Started-with-the-Code)
-5. [Software Requirements](#Software-Requirements)
-7. [License](#License)
-8. [Acknowledgements](#Acknowledgements)
-9. [Contact](#Contact)
+- [Overview](#-overview)
+- [Repository Structure](#-repository-structure)
+- [Data Description](#-data-description)
+- [Getting started with the code](#-getting-started-with-the-code)
+- [Software Requirements](#-software-requirements)
+- [License](#-license)
+- [Acknowledgements (from paper)](#-acknowledgements-(from-paper))
+- [Contact](#-contact)
+
 
 ---
 
