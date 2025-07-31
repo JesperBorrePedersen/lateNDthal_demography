@@ -27,16 +27,16 @@ Isabelle Crevecoeur¹²,
 Cosimo Posth¹,² 
 
 ### Affiliation: 
-**1** Archaeo- and Paleogenetics, Institute for Archaeological Sciences, Department of Geosciences, University of Tübingen, Tübingen 72074, Germany;  
-**2** Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen, Tübingen 72074, Germany;  
-**3** The Role of Culture in Early Expansions of Humans (ROCEEH), Heidelberg Academy of Sciences and Humanities, University of Tübingen, Hölderlinstrasse 12, Tübingen 72074, Germany;  
-**4** Department of Anthropology, California State University Northridge, Northridge, CA 91330, USA;  
-**5** Department of Anthropology, University of Winnipeg, Winnipeg, MB R3T 3C7, Canada;  
-**6** Department of Early Prehistory and Quaternary Ecology, and Senckenberg Center for Human Evolution and Paleoecology, Universität Tübingen, 72070 Tübingen, Germany;  
-**7** Department of Archaeogenetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;  
-**8** Scientific Heritage Service, Royal Belgian Institute of Natural Sciences, 1000 Brussels, Belgium;  
-**9** Department of Archaeology, Faculty of Philosophy, University of Belgrade, 11000 Belgrade, Serbia;  
-**10** De la Préhistoire à l’Actuel: Culture, Environnement et Anthropologie, UMR 5199, CNRS, University of Bordeaux, Pessac 33600, France 
+1. Archaeo- and Paleogenetics, Institute for Archaeological Sciences, Department of Geosciences, University of Tübingen, Tübingen 72074, Germany;  
+2. Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen, Tübingen 72074, Germany;  
+3. The Role of Culture in Early Expansions of Humans (ROCEEH), Heidelberg Academy of Sciences and Humanities, University of Tübingen, Hölderlinstrasse 12, Tübingen 72074, Germany;  
+4. Department of Anthropology, California State University Northridge, Northridge, CA 91330, USA;  
+5. Department of Anthropology, University of Winnipeg, Winnipeg, MB R3T 3C7, Canada;  
+6. Department of Early Prehistory and Quaternary Ecology, and Senckenberg Center for Human Evolution and Paleoecology, Universität Tübingen, 72070 Tübingen, Germany;  
+7. Department of Archaeogenetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;  
+8. Scientific Heritage Service, Royal Belgian Institute of Natural Sciences, 1000 Brussels, Belgium;  
+9. Department of Archaeology, Faculty of Philosophy, University of Belgrade, 11000 Belgrade, Serbia;  
+10. De la Préhistoire à l’Actuel: Culture, Environnement et Anthropologie, UMR 5199, CNRS, University of Bordeaux, Pessac 33600, France 
 
 ### Date: YYYY-MM-DD
 
