@@ -151,6 +151,8 @@ GitHub: https://github.com/JesperBorrePedersen
 ORCID: [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--3468--0986-green.svg)](https://orcid.org/0000-0002-3468-0986)
 
 **Charoula M. Fotiadou**
+
 Email: <charoula.fotiadou@zv.uni-tuebingen.de>
+
 GitHub: https://github.com/charoulafotiadou
 
