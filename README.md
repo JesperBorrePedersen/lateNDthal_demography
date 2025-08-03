@@ -27,16 +27,20 @@ Isabelle Crevecoeur¹²,
 Cosimo Posth¹,² 
 
 ### Affiliation: 
-1. Archaeo- and Paleogenetics, Institute for Archaeological Sciences, Department of Geosciences, University of Tübingen, Tübingen 72074, Germany;  
-2. Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen, Tübingen 72074, Germany;  
-3. The Role of Culture in Early Expansions of Humans (ROCEEH), Heidelberg Academy of Sciences and Humanities, University of Tübingen, Hölderlinstrasse 12, Tübingen 72074, Germany;  
-4. Department of Anthropology, California State University Northridge, Northridge, CA 91330, USA;  
-5. Department of Anthropology, University of Winnipeg, Winnipeg, MB R3T 3C7, Canada;  
-6. Department of Early Prehistory and Quaternary Ecology, and Senckenberg Center for Human Evolution and Paleoecology, Universität Tübingen, 72070 Tübingen, Germany;  
-7. Department of Archaeogenetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;  
-8. Scientific Heritage Service, Royal Belgian Institute of Natural Sciences, 1000 Brussels, Belgium;  
-9. Department of Archaeology, Faculty of Philosophy, University of Belgrade, 11000 Belgrade, Serbia;  
-10. De la Préhistoire à l’Actuel: Culture, Environnement et Anthropologie, UMR 5199, CNRS, University of Bordeaux, Pessac 33600, France 
+1. Archaeo- and Paleogenetics, Institute for Archaeological Sciences, Department of Geosciences, University of Tübingen, Tübingen 72074, Germany;
+2. Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen, Tübingen 72074, Germany;
+3. The Role of Culture in Early Expansions of Humans (ROCEEH), Heidelberg Academy of Sciences and Humanities, University of Tübingen, Hölderlinstrasse 12, Tübingen 72074, Germany;
+4. Department of Anthropology, California State University Northridge, Northridge, CA 91330, USA;
+5. Department of Anthropology, University of Winnipeg, Winnipeg, MB R3T 3C7, Canada;
+6. Department of Archaeogenetics, Max Planck Institute for Evolutionary Anthropology, 04103 Leipzig, Germany;
+7. Biogeology, Department of Geosciences, University of Tübingen, 72074 Tübingen, Germany;
+8. Department of Early Prehistory and Quaternary Ecology, University of Tübingen, 72070 Tübingen, Germany;
+9. Department of Art and Culture, History and Antiquity, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands;
+10. Interdisciplinary Center for Archaeology and the Evolution of Human Behavior, University of Algarve, Faro, Portugal;
+11. Department of Classical World and Asian Cultures, Institute of Prehistory and Protohistory, Friedrich-Alexander Universität Erlangen–Nürnberg, 91054 Erlangen, Germany;
+12. PACEA UMR 5199, CNRS, Université de Bordeaux, Ministère de la Culture, Pessac, France;
+13. Service of Scientific Heritage, Royal Belgian Institute of Natural Sciences, 1000 Brussels, Belgium;
+14. Department of Archaeology, Faculty of Philosophy, University of Belgrade, 11000 Belgrade, Serbia;
 
 ### Date: YYYY-MM-DD
 
@@ -62,7 +66,7 @@ Cosimo Posth¹,²
 
 ## 🧭 Overview
 
-This repository contains the datasets, R scripts, and documentation for the analysis presented in the academic paper titled:
+This repository contains the datasets, R scripts, and documentation for the analyses presented in the academic paper titled:
 
 **“Archaeogenetic insights into the demographic history of Late Neanderthals”**
 
@@ -72,13 +76,22 @@ This repository contains the datasets, R scripts, and documentation for the anal
 
 ```
 ├── 1_data
+│   ├── dating
+│   ├── map
+│   ├── pairwise_distance
 │   ├── road_analysis
 │   ├── yaworsky_et_al_2024
 │   └── yaworsky_extended
 ├── 2_scripts
+│   ├── dating
+│   ├── map
+│   ├── pairwise_distance
 │   ├── road_analysis
 │   └── yaworsky_extended
 ├── 3_output
+│   ├── dating
+│   ├── map
+│   ├── pairwise_distance
 │   ├── road_analysis
 │   └── yaworsky_extended
 ├── lateNDthal_demography.Rproj
@@ -91,7 +104,9 @@ This repository contains the datasets, R scripts, and documentation for the anal
 ---
 
 ## 📊 Data Description
-
+- `1_data/dating/` – All data used for creating Fig. 3B and Fig. S18
+- `1_data/map/` – All data used for creating Fig. 1
+- `1_data/pairwise_distance/` – All data used for checking the pairwise distance (Fig. 2B)
 - `1_data/road_analysis/` – All data used creating distribution maps.
 - `1_data/yaworsky_extended/` – All data used for running the same analysis as Yaworsky et al. 2024 with an extended dataset.
 - `1_data/yaworsky_et_al_2024/` – The orignial data from Yaworsky et al. 2024 for comparison.
@@ -134,3 +149,8 @@ For questions or data requests, please contact:
 Email: <jesper-borre.pedersen@ifu.uni-tuebingen.de>  
 GitHub: https://github.com/JesperBorrePedersen  
 ORCID: [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--3468--0986-green.svg)](https://orcid.org/0000-0002-3468-0986)
+
+**Charoula M. Fotiadou**
+Email: <charoula.fotiadou@zv.uni-tuebingen.de>
+GitHub: https://github.com/charoulafotiadou
+
