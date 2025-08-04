@@ -46,7 +46,7 @@ Cosimo Posth¹,²
 
 ### Publication DOI: *[Add DOI or URL here]*
 
-### Compendium DOI: 
+### Compendium DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16737433.svg)](https://doi.org/10.5281/zenodo.16737433)
 
 ---
 
